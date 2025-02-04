@@ -32,4 +32,4 @@ The goal is simple: **dodge the asteroids, survive as long as possible, and chal
 ## 🚀 Getting Started
 
 ### Prerequisites
-- **Unity 2022.1.18f1** or later (recommended)
+- **Unity 2022.1.15f1** or later (recommended)
